@@ -10,7 +10,6 @@
     "symfony/yaml": "^7.3",
     "tourze/phpunit-base": "1.*",
     "tourze/quic-transport": "0.0.*",
-    "tourze/symfony-testing-framework": "0.0.*",
     "workerman/workerman": "^5.1"
   },
   "require-dev": {
