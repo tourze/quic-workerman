@@ -6,7 +6,7 @@
   "require": {
     "ext-hash": "*",
     "symfony/dependency-injection": "^7.3",
-    "symfony/framework-bundle": "^7.3",
+    "symfony/framework-bundle": "^7.4",
     "symfony/yaml": "^7.3",
     "tourze/phpunit-base": "1.*",
     "tourze/quic-transport": "0.0.*",
